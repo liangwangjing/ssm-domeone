@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ssm-dometwo:war">
+    <output-path>$PROJECT_DIR$/../ssm-dometwo/target</output-path>
+    <root id="archive" name="ssm-dometwo.war">
+      <element id="artifact" artifact-name="ssm-dometwo:war exploded" />
+    </root>
+  </artifact>
+</component>

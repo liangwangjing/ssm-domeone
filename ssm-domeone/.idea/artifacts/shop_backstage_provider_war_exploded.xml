@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="shop-backstage-provider:war exploded">
+    <output-path>$PROJECT_DIR$/../shop-backstage-provider/target/shop-backstage-provider</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="shop-backstage-provider" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../shop-backstage-provider/target/shop-backstage-provider/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="shop-backstage-provider/web/Web" />
+    </root>
+  </artifact>
+</component>
